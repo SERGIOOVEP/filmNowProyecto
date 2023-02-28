@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.ulNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: black;
+    height: 55px;
+    align-items: center;
+    list-style-type: none;
+    
+}
+
+.liNav a{
+    color:  rgb(252, 143, 0);
+    
+}
+
+
+ul li{
+    color:  rgb(252, 143, 0);
+}
+
